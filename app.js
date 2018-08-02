@@ -44,5 +44,6 @@ function reset() {
   draw()
 }
 
+}
 
 draw()
